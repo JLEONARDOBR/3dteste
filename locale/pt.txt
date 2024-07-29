@@ -1,0 +1,13 @@
+#: locale=pt
+
+## Media
+
+### Title
+model_FF53D380_ECE6_F219_41E1_A2A275C622C7.label = separte10
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 9
